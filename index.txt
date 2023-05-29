@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Amine MILADI
+Amine MILADI
 Web developer
 
 Show Contacts
